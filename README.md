@@ -8,7 +8,7 @@
 <p align=center>Thes IS Making Better Discord Bot </p>
 
 - ### Previews
-    <a align=left href='' target="_blank">Imgur Website</a>
+    <a align=left href='https://www.youtube.com/watch?v=Kk8jF2qXw1o' target="_blank">Youtube</a>
 - ### Update v1.0.0
   - Fixed Bugs
   - 
