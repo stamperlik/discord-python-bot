@@ -11,4 +11,4 @@
     <a align=left href='' target="_blank">Imgur Website</a>
 - ### Update v1.0.0
   - Fixed Bugs
-  - Added Created/Closed Timestamp into the Logs
+  - 
